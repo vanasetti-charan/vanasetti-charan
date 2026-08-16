@@ -1,60 +1,145 @@
-# Hi 👋, I'm Vanasetti Charan  
+# Hi 👋, I'm Vanasetti Charan
 
-### 🚀 Python Backend Developer  
+### 💻 Software & Web Technologies | Digital Accessibility
 
-I am a passionate Python Backend Developer with a strong foundation in Python, SQL, and problem-solving.  
-I focus on building scalable, efficient, and real-world backend solutions with clean and maintainable code.
+I am a technology professional with a foundation in **Python, SQL, HTML, CSS, JavaScript, and Bootstrap**, along with professional experience in **PDF Accessibility**.
+
+I enjoy solving technical problems, building practical projects, and continuously expanding my knowledge across software development, web technologies, and digital accessibility.
 
 ---
 
 ## 💡 About Me
-- 🎯 Focused on Backend Development (Python & SQL)
-- 💻 Strong in Problem Solving and Data Handling
-- 📚 Continuously learning and improving my skills
-- 💼 Actively looking for entry-level opportunities
+
+- 📄 Currently working as a **PDF Accessibility Specialist** at **ZorvinTech Private Limited**
+- ♿ Developing practical experience in **PDF Accessibility and Digital Accessibility**
+- 🌐 Expanding my knowledge into **Web Accessibility and WCAG**
+- 🐍 Strong foundation in **Python and programming fundamentals**
+- 💻 Knowledge of **HTML, CSS, JavaScript, Bootstrap, and SQL**
+- 🛠️ Interested in building practical and user-focused technology solutions
+- 📚 Continuously learning and improving through hands-on projects
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy  
-- **Concepts:** OOP, Data Structures, File Handling  
-- **Frontend Basics:** HTML, CSS, Bootstrap, JavaScript  
-- **Tools:** Git, GitHub  
+## 🛠️ Tech Stack
+
+### Programming & Data
+- **Python**
+- **SQL**
+- **Pandas**
+- **NumPy**
+
+### Web Technologies
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap**
+
+### Accessibility
+- **Digital Accessibility**
+- **PDF Accessibility**
+- **Web Accessibility**
+- **WCAG**
+- **PDF/UA**
+- **Semantic Structures**
+
+### Core Concepts
+- **Object-Oriented Programming**
+- **Data Structures**
+- **File Handling**
+- **Exception Handling**
+- **Problem Solving**
+
+### Tools
+- **Git**
+- **GitHub**
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
+
 ### 🔹 Resume Screening System
-- Automated resume parsing and skill matching  
-- Reduced manual screening effort significantly  
-- Built using Python, PyPDF2, and python-docx  
 
-### 🔹 CLI Quiz Application
-- Interactive command-line quiz system  
-- Implemented using OOP and exception handling  
+A Python-based application designed to automate the initial resume screening process.
 
-### 🔹 Portfolio Website
-- Responsive personal portfolio website  
-- Showcases projects, skills, and contact information  
+- 📄 Extracts content from PDF and DOCX resumes
+- 🔎 Matches candidate skills against predefined requirements
+- 📊 Calculates skill-matching scores
+- 🎯 Implements shortlisting logic
+- 📁 Supports batch processing
+
+**Built with:** Python, Pandas, PyPDF2, python-docx
+
+🔗 **Repository:**  
+https://github.com/vanasetti-charan/resume-screener-python
+
+---
+
+### 🔹 Personal Portfolio Website
+
+A responsive personal portfolio website designed to showcase my professional experience, technical skills, projects, and career interests.
+
+**Built with:** HTML5, CSS3, Bootstrap, JavaScript
+
+🔗 **Live Website:**  
+https://vanasetti-charan.github.io/charan-portfolio/
+
+🔗 **Repository:**  
+https://github.com/vanasetti-charan/charan-portfolio
+
+---
+
+### 🔹 Interactive CLI Quiz
+
+A Python-based command-line quiz application demonstrating programming fundamentals and structured application development.
+
+- 🧩 Object-Oriented Programming
+- ⏱️ Quiz and answer handling
+- ✅ Input validation
+- ⚠️ Exception handling
+- 📊 Score calculation
+
+**Built with:** Python, OOP, Exception Handling
+
+🔗 **Repository:**  
+https://github.com/vanasetti-charan/Python-Projects
 
 ---
 
 ## 🌐 Portfolio
-🔗 https://vanasetti-charan.github.io/charan-portfolio/
+
+🔗 **Visit my portfolio:**  
+https://vanasetti-charan.github.io/charan-portfolio/
+
+---
+
+## 📈 Current Professional Focus
+
+**PDF Accessibility Specialist**  
+**ZorvinTech Private Limited**
+
+Currently focused on **PDF Accessibility** while expanding my practical knowledge of **Web Accessibility, WCAG, and accessible web experiences**.
+
+I am also continuing to strengthen my skills in:
+
+**Python • SQL • HTML • CSS • JavaScript • Bootstrap • Software Development • Technical Problem Solving**
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/vanasetti-charan/  
-- 💻 GitHub: https://github.com/vanasetti-charan  
-- 📧 Email: vanasetticharan@gmail.com  
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vanasetti-charan/
+- 💻 **GitHub:** https://github.com/vanasetti-charan
+- 📧 **Email:** vanasetticharan@gmail.com
+- 🌐 **Portfolio:** https://vanasetti-charan.github.io/charan-portfolio/
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving real-world problems using code and continuously improving my backend development skills.
+
+I enjoy learning how technology can solve practical problems while making digital experiences more accessible and inclusive.
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+⭐ **Thanks for visiting my GitHub profile!**
+
+Feel free to explore my repositories and connect with me.
